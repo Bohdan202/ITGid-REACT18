@@ -1,0 +1,13 @@
+import React from "react";
+import "./Footer.css";
+
+function Footer() {
+  return (
+    <div className="Footer-site-footer">
+      <b>React site</b>
+      <p>2021 copiryght. All rights reserved</p>
+    </div>
+  );
+}
+
+export default Footer;
